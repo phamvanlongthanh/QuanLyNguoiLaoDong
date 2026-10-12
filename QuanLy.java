@@ -14,6 +14,6 @@ public class QuanLy extends NguoiLaoDong {
     @Override
     public void hienThiThongTin() {
         super.hienThiThongTin();
-        System.out.println("Chức vụ: Quản lý | Hệ số: " + heSoChucVu + " | Tổng lương: " + tinhLuong());
+        System.out.println("Chuc vu: Quan ly | He so: " + heSoChucVu + " | Tong luong: " + tinhLuong());
     }
 }

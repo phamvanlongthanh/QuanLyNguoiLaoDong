@@ -12,7 +12,7 @@ public class NguoiLaoDong {
     }
 
     public void hienThiThongTin() {
-        System.out.println("Mã số: " + maSo + " | Họ tên: " + hoTen + " | Lương CB: " + luongCoBan);
+        System.out.println("Ma so: " + maSo + " | Ho ten: " + hoTen + " | Luong CB: " + luongCoBan);
     }
 
     public double tinhLuong() {

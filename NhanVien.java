@@ -14,6 +14,6 @@ public class NhanVien extends NguoiLaoDong {
     @Override
     public void hienThiThongTin() {
         super.hienThiThongTin();
-        System.out.println("Chức vụ: Nhân viên | Ngày công: " + soNgayCong + " | Tổng lương: " + tinhLuong());
+        System.out.println("Chuc vu: Nhan vien | Ngay cong: " + soNgayCong + " | Tong luong: " + tinhLuong());
     }
 }
