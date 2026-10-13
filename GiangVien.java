@@ -16,6 +16,6 @@ public class GiangVien extends NguoiLaoDong {
     @Override
     public void hienThiThongTin() {
         super.hienThiThongTin();
-        System.out.println("Chuc vu: Giang vien | So tiet: " + soTietDay + " | Tong luong: " + tinhLuong());
+        System.out.println("Chuc vu: Sensei | So tiet: " + soTietDay + " | Tong luong: " + tinhLuong());
     }
 }
