@@ -14,7 +14,7 @@ public class NhanVien extends NguoiLaoDong {
     @Override
     public void hienThiThongTin() {
         super.hienThiThongTin();
-        System.out.println("---------------------------------Thong_tin_nhan_vien
+        System.out.println("---------------------------------Thong_tin_nhan_vien---------------------------");
         System.out.println("Chuc vu: Nhan vien | Ngay cong: " + soNgayCong + " | Tong luong: " + tinhLuong());
     }
 }
